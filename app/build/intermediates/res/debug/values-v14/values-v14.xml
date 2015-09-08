@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/90540/AndroidStudioProjects/ch07_ex4_TipCalculator/app/src/main/res/values-v14/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+
+
+        <item name="android:spinnerDropDownItemStyle">@style/SpinDrop</item>
+        <item name="android:spinnerItemStyle">@style/SpinItem</item>
+
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="android:textColorSecondary">@color/white</item>
+
+        <item name="android:windowBackground">@color/background</item>
+        <!-- Theme customizations NOT specific to a particular API -->
+    </style>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+
+    <style name="AppTheme" parent="android:Theme.Holo.Light">
+        <item name="android:spinnerDropDownItemStyle">@style/SpinDrop</item>
+        <item name="android:spinnerItemStyle">@style/SpinItem</item>
+
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="android:textColorSecondary">@color/white</item>
+
+
+
+        <item name="android:windowBackground">@color/background</item>
+        <!-- Theme customizations NOT specific to a particular API -->
+    </style>
+</resources>
